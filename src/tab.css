@@ -1,0 +1,11 @@
+#tabid
+{
+    display: flex;
+    height: auto;
+    width: 100%;
+    margin-top: 2rem;
+    margin-left: 15rem;
+    align-items: center;
+    justify-content: center;
+    color: rgb(236, 239, 241);
+}

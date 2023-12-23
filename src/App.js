@@ -1,6 +1,7 @@
-import React  from 'react';
+import * as React from 'react';
 import './App.css';
-import Game from './Games';
+
+import PlayerTabs from './tab';
 
 function App() {
    
@@ -9,7 +10,8 @@ function App() {
              <div id="App">
                 Choose your oppponent !
             </div>
-            <div id="opponents">
+            
+             <div id="opponents">
                 <button >
                     Play with AI !!!
                 </button>
@@ -18,8 +20,8 @@ function App() {
                 </button>
             </div>
             <div id="PlayArea">
-                <Game />
-            </div>
+                <PlayerTabs />
+            </div>  
         </div>
             
      

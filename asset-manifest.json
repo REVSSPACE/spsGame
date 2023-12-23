@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/spsGame/static/css/main.8cb5ded7.css",
-    "main.js": "/spsGame/static/js/main.ed6dfee3.js",
+    "main.css": "/spsGame/static/css/main.ea797893.css",
+    "main.js": "/spsGame/static/js/main.3b12d290.js",
     "static/js/787.de42f47e.chunk.js": "/spsGame/static/js/787.de42f47e.chunk.js",
     "static/media/bg-sand.jpg": "/spsGame/static/media/bg-sand.065ab061ae0aa89d8a78.jpg",
     "index.html": "/spsGame/index.html",
-    "main.8cb5ded7.css.map": "/spsGame/static/css/main.8cb5ded7.css.map",
-    "main.ed6dfee3.js.map": "/spsGame/static/js/main.ed6dfee3.js.map",
+    "main.ea797893.css.map": "/spsGame/static/css/main.ea797893.css.map",
+    "main.3b12d290.js.map": "/spsGame/static/js/main.3b12d290.js.map",
     "787.de42f47e.chunk.js.map": "/spsGame/static/js/787.de42f47e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cb5ded7.css",
-    "static/js/main.ed6dfee3.js"
+    "static/css/main.ea797893.css",
+    "static/js/main.3b12d290.js"
   ]
 }

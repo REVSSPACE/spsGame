@@ -7,7 +7,7 @@ import Box from '@mui/material/Box';
 import Game from './Games';
 import './tab.css';
 import SystemGame from './SystemGame';
-
+import Client from './client';
 function CustomTabPanel(props) {
   const { children, value, index, ...other } = props;
 
@@ -65,7 +65,7 @@ export default function BasicTabs() {
       <SystemGame />
       </CustomTabPanel>
       <CustomTabPanel value={value} index={2}>
-        Item Three
+        <Client />
       </CustomTabPanel>
     </Box></div>
   );

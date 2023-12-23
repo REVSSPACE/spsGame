@@ -36,6 +36,11 @@ const SystemGame = () => {
       setResult('Player 2 wins!');
     }
   };
+  const handleClear = () => {
+    setPlayer1Move(null);
+    setPlayer2Move(null);
+    setResult(null);
+  };
 
   return (
     <div className="App">
@@ -59,6 +64,7 @@ const SystemGame = () => {
         </div>
       </div>
       {result && <p className="result">{result}</p>}
+      <button onClick={handleClear}>Clear</button>
     </div>
   );
 };

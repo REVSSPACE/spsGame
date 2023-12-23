@@ -46,6 +46,7 @@ const Game = () => {
           </button>
         ))}
       </div>
+      
       {userChoice && computerChoice && (
         <div className="result">
           <p>You chose: {userChoice}</p>

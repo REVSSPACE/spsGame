@@ -15,13 +15,13 @@
     margin: 10px;
   }
  
-  #gamemain
+  #gamemain 
   {
     margin-top: 5rem;
     display: flex;
-    
-    height: 50%;
+    height: auto;
     width: 100%;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 

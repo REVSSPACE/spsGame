@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/spsGame/static/css/main.ea797893.css",
-    "main.js": "/spsGame/static/js/main.3b12d290.js",
+    "main.js": "/spsGame/static/js/main.09eb2c72.js",
     "static/js/787.de42f47e.chunk.js": "/spsGame/static/js/787.de42f47e.chunk.js",
     "static/media/bg-sand.jpg": "/spsGame/static/media/bg-sand.065ab061ae0aa89d8a78.jpg",
     "index.html": "/spsGame/index.html",
     "main.ea797893.css.map": "/spsGame/static/css/main.ea797893.css.map",
-    "main.3b12d290.js.map": "/spsGame/static/js/main.3b12d290.js.map",
+    "main.09eb2c72.js.map": "/spsGame/static/js/main.09eb2c72.js.map",
     "787.de42f47e.chunk.js.map": "/spsGame/static/js/787.de42f47e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea797893.css",
-    "static/js/main.3b12d290.js"
+    "static/js/main.09eb2c72.js"
   ]
 }
